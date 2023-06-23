@@ -1,0 +1,1 @@
+{"nombres":{"nombres":"cesar","ap":"flores","am":"arroyabe"},"fecha":"27/06/2002","correo":"personal.com","rfc":"werfwrb","sexo":"masculino","direccion":{"calle":"crisantemo","colonia":"09998","municipio":"los reyes","cp":"san sebastian","entidad":"estado mexico"}}
